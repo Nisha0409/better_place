@@ -2,9 +2,9 @@
 
 In the project directory, you can run:
 
-### 'npm install'
+### `npm install`
 Install node modules.
-### 'npm i react-dropdown'
+### `npm i react-dropdown`
 It will install dropdown package in node module.
 
 ### `npm start`
