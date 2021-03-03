@@ -1,4 +1,4 @@
-##Prerequisites.
+## Prerequisites.
 ### `Any Code editior`
 ### `Node.js`
 
@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
-## Codes for thid project is available in src folder.
+## Codes for this project is available in src folder.
