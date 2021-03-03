@@ -1,4 +1,4 @@
-##Prerequisites
+##Prerequisites.
 Any Code editior
 Node.js
 
